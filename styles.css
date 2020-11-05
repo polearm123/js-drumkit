@@ -1,0 +1,43 @@
+
+.key-container {
+
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height:100%;
+  
+    
+   
+    /* justify-content: center; */
+
+
+}
+
+.key {
+    
+    height:1vw;
+    width:1vw;
+    justify-content:center;
+    align-items: center;
+    /* text-align: center; */
+    padding:30px;
+    border: 3px solid black;
+    margin: 5px 5px;
+    font-size: 1vw;
+   
+   
+    
+
+}
+
+
+
+html, body{
+    margin: 0;
+    height:100%;
+
+
+
+}
+
